@@ -5,8 +5,8 @@ r = float(input("Masukkan panjang jari-jari Lingkaran : "))
 for nilai in kelipatan7 :
     if r == nilai :
         phi1 = 22/7
-        luaslingkaran = phi1 * nilai * nilai
-        kelilinglingkaran = 2 * phi1 * nilai
+        luaslingkaran = phi1 * r * r
+        kelilinglingkaran = 2 * phi1 * r
         print("Luas Lingkaran adalah : ", int(luaslingkaran))
         print("Keliling Lingkaran adalah : ", int(kelilinglingkaran))   
         break
