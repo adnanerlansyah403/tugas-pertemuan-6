@@ -3,7 +3,8 @@
 ## Screen Shoot Hasil Eksekusi Program
 ![Gambar Output Program](ssprogram.png)
 
-### Syntax Program Python soal menghitung luas dan keliling pada lingkaran
+#### Syntax Program Python soal menghitung luas dan keliling pada lingkaran
+<br>
 ```sh
 
 kelipatan7 = [7,14,21,28,35,42,49,56,63,70]
